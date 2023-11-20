@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **PHP for Web Development**
 
-- 📫 How to reach me **ssadjik@gmail.com**
+- 📫 How to reach me **savindarajapaksha1045@gmail.com**
 
 - ⚡ Fun fact **I love music and singing**
 
